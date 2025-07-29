@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Fnaf 1 menu.sln"
+    "dotnet.defaultSolution": "Fnaf-menu.sln"
 }
